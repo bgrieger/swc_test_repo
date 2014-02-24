@@ -1,3 +1,3 @@
-git facilitates brancing.
+git facilitates branching.
 
 But isn't this mind warping?
