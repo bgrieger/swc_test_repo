@@ -1,1 +1,2 @@
-git facilitates brancing.
+git facilitates branching.
+
