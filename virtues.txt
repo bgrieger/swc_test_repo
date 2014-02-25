@@ -1,5 +1,5 @@
 These are the three pricipal virtues of a programmer (according to the Perl
-man pages):
+manual):
 
 laziness = Faulheit
 impatience = Ungeduld
