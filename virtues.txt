@@ -3,4 +3,4 @@ man pages):
 
 laziness = Faulheit
 impatience = Ungeduld
-hybris = Gr"ossenwahn
+hybris = Grössenwahn
