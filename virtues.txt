@@ -3,4 +3,4 @@ manual):
 
 laziness = Faulheit 
 impatience = Ungeduld = impaciência
-hybris = Grössenwahn
+hybris = Groessenwahn
