@@ -1,6 +1,6 @@
 These are the three pricipal virtues of a programmer (according to the Perl
 man pages):
 
-laziness = Faulheit
-impatience = Ungeduld
+laziness = Faulheit 
+impatience = Ungeduld = impaciência
 hybris = Grössenwahn
